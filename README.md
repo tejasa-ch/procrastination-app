@@ -16,7 +16,7 @@ This application helps you to track your state of Procrastination
 Clone the project
 
 ```bash
-  git clone https://github.com/srj1107/Procrastination_App
+  git clone https://https://github.com/tejasa-ch/procrastination-app
 ```
 
 Go to the project directory
